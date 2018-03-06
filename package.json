@@ -1,0 +1,1 @@
+{"name":"com.alaa.testpush","version":"1.0.0","displayName":"testpush","cordova":{"platforms":["android"]},"dependencies":{"cordova-android":"~7.0.0"}}
